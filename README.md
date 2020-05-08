@@ -17,5 +17,5 @@ http://localhost:8080/stat
 ## 빌드 및 실행방법
 프로젝트 루트에서 
 gradle jar
-java -jar ./build/lib/StressTest.jar
+java -jar ./build/libs/StressTest.jar
 
