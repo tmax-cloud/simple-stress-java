@@ -13,3 +13,9 @@ http://localhost:8080/cpu?num=100&loop=1000&target=hellohellohellohello
 
 ## 스레드 카운트 바로 조회
 http://localhost:8080/stat
+
+## 빌드 및 실행방법
+프로젝트 루트에서 
+gradle jar
+java -jar ./build/lib/StressTest.jar
+
